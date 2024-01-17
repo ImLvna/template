@@ -1,0 +1,9 @@
+{
+  "files.eol": "\n",
+  "editor.defaultFormatter": "biomejs.biome-nightly",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  }
+}
