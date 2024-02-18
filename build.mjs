@@ -6,4 +6,5 @@ esbuild.build({
   outfile: "dist/index.js",
   platform: "node",
   target: ["node21"],
+  sourcemap: true,
 });
