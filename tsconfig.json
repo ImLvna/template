@@ -6,6 +6,6 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "baseUrl": "./src",
-    "outDir": "dist"
+    "noEmit": true
   }
 }
